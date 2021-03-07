@@ -1,2 +1,2 @@
-# osudustry
-osu!dustry
+# osu!dustry
+osu! in mindustry

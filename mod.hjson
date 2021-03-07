@@ -1,0 +1,9 @@
+{
+    name: "osudustry",
+    displayName: "osu!dustry",
+    author: "QmelZ",
+    description: "..something related to osu?",
+    version: 1,
+    minGameVersion: 125,
+    hidden: true
+}
